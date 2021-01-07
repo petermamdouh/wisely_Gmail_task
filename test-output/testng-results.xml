@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-07T12:44:01 PST" name="Default suite" finished-at="2021-01-07T12:44:25 PST" duration-ms="23922">
+    <groups>
+    </groups>
+    <test started-at="2021-01-07T12:44:01 PST" name="Default test" finished-at="2021-01-07T12:44:25 PST" duration-ms="23922">
+      <class name="WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase@6193932a]" started-at="2021-01-07T12:43:53 PST" name="globalSetup" finished-at="2021-01-07T12:44:01 PST" duration-ms="7787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method signature="Login_valid()[pri:1, instance:WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase@6193932a]" started-at="2021-01-07T12:44:01 PST" name="Login_valid" finished-at="2021-01-07T12:44:20 PST" duration-ms="19236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+        <test-method signature="Logout()[pri:2, instance:WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase@6193932a]" started-at="2021-01-07T12:44:20 PST" name="Logout" finished-at="2021-01-07T12:44:23 PST" duration-ms="2452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="login_Invalid()[pri:3, instance:WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase@6193932a]" started-at="2021-01-07T12:44:23 PST" name="login_Invalid" finished-at="2021-01-07T12:44:25 PST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Invalid -->
+        <test-method is-config="true" signature="globalTearDown()[pri:0, instance:WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase@6193932a]" started-at="2021-01-07T12:44:25 PST" name="globalTearDown" finished-at="2021-01-07T12:44:26 PST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalTearDown -->
+      </class> <!-- WiselyInsure.Gmail_WiselyInsure_Task.Gmail_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
